@@ -13,5 +13,4 @@ References:
    https://aapt.scitation.org/doi/full/10.1119/10.0004835
    
 4) Qiskit Documentation
-
    https://qiskit.org/documentation/

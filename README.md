@@ -1,6 +1,13 @@
 # Grover search on a database using Qiskit
 This exercise demonstrates Grover's search algorithm on a simple database.
 
+The file The_genius_of_Grover's_Algorithm.pdf discusses how Grover developed the optimal search algorithm.
+
+The Jupyter Notebook Grover_Search_on_a_Database.ipynb discusses the code that demonstrates how a simple classical database can be encoded as a quantu oracle to perform search. This is essentially to demystify the concept of an oracle often described as a "magic" black-box that selectively reflects the target state to be searched.
+
+This implementation demonstates the true meaning of an oracle query in the context of database access.
+
+
 References:
 
 1) From Schrödinger’s equation to the quantum search algorithm, Grover L.K., Pramana - J Phys 56, 333–348 (2001).

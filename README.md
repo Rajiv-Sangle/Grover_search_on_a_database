@@ -1,4 +1,4 @@
-# Grover_search_on_a_database
+# Grover search on a database using Qiskit
 This exercise demonstrates Grover's search algorithm on a simple database.
 
 References:
